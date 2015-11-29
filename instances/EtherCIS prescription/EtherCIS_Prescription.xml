@@ -531,9 +531,9 @@
                 </timing>
                 <action_archetype_id>openEHR-EHR-ACTION\.medication\.v1</action_archetype_id>
             </activities>
-            <activities archetype_node_id="at0002">
+            <activities archetype_node_id="at0001">
                 <name>
-                    <value>Medication order</value>
+                    <value>Medication activity</value>
                 </name>
                 <description archetype_node_id="openEHR-EHR-ITEM_TREE.medication_mod.v1" xsi:type="v1:ITEM_TREE">
                     <name>
